@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi I'm Teddy 👋
 
 - 🔭 I’m currently working on multi-spacecraft data analysis techniques for space plasma missions.
 - 🌱 I’m currently a 5th year graduate student in Applied Mathematics at the University of Arizona.
